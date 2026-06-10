@@ -5,6 +5,8 @@ Free public preview for a fixed-scope Resume / LinkedIn / Interview Pack.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/resume-linkedin-interview-pack.html
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-resume-linkedin-interview-pack.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/career-packet-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/career-packet-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/career-packet-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/career-packet-brief-builder.html
